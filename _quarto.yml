@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: docs
+  output-dir: reports
 
 website:
   title: "My Assignment 4 Quarto Document"
